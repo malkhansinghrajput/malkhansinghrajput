@@ -94,8 +94,7 @@ I am a **motivated MERN Stack Developer** with hands-on experience in building
 ---
 
 ## 🎯 Current Focus
-
-✔ Strengthening MERN stack skills  
+ 
 ✔ Writing clean & maintainable code  
 ✔ Building scalable backend APIs  
 ✔ Improving problem-solving ability  

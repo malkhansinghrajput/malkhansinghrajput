@@ -1,11 +1,11 @@
-<!-- ================= ANIMATED HEADER ================= -->
+<!-- ================= HERO HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Malkhan%20Singh%20Dewda&fontSize=38&fontAlignY=35&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Malkhan%20Singh%20Dewda&fontSize=40&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&color=gradient" />
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;Building+Scalable+REST+APIs;React+%7C+Node+%7C+MongoDB;Learning+%26+Growing+Every+Day+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=950&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;REST+APIs+%7C+JWT+Authentication;Consistent+Learner+%26+Problem+Solver+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -16,14 +16,17 @@
 
 ## 👨‍💻 About Me
 
-I am a **motivated MERN Stack Developer** with hands-on experience in building  
-**responsive user interfaces, scalable REST APIs, and secure backend systems**.
+I am a **MERN Stack Developer** with hands-on experience in building  
+**modern, responsive, and scalable web applications**.
 
-- 🎯 Strong foundation in **JavaScript, React, Node.js & MongoDB**
-- 🔐 Experience with **JWT Authentication & REST APIs**
-- 🛒 Built **E-Commerce & Admin Dashboard projects**
-- 🚀 Fast learner & strong **problem-solving skills**
-- 🤝 Comfortable working in **team & agile environments**
+I enjoy working across the **full stack**, from crafting clean UI components  
+to developing **secure REST APIs and backend systems**.
+
+- 🚀 MERN Stack (MongoDB, Express, React, Node)
+- 🔐 Authentication using **JWT**
+- 🛒 Experience with **E-Commerce & Admin Dashboards**
+- 🧠 Strong problem-solving & logical thinking
+- 🤝 Team-friendly & agile environment ready
 
 ---
 
@@ -31,13 +34,13 @@ I am a **motivated MERN Stack Developer** with hands-on experience in building
 
 <p align="center">
   <a href="https://github.com/malkhansinghrajput">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/malkhan-singh-dewda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rajputmalkhansingh503@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -45,13 +48,13 @@ I am a **motivated MERN Stack Developer** with hands-on experience in building
 
 ## 🧰 Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-### 🌐 Frontend
+### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -62,14 +65,14 @@ I am a **motivated MERN Stack Developer** with hands-on experience in building
 
 ### 🖥 Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🛠 Tools
+### 🛠 Developer Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -80,42 +83,27 @@ I am a **motivated MERN Stack Developer** with hands-on experience in building
 ## 💼 Experience
 
 ### 🧑‍💻 MERN Stack Developer Intern — Grow Tech  
-**(Dr. Reddy’s Foundation | Sep 2025 – Present)**  
-- Developed full-stack MERN applications  
-- Built REST APIs for authentication & CRUD  
-- Designed responsive UI using React & Tailwind  
+**Dr. Reddy’s Foundation | Sep 2025 – Present**
+- Developed end-to-end MERN applications
+- Built secure REST APIs with JWT authentication
+- Created responsive UI using React & Tailwind CSS
 
 ### 🧑‍💻 Full Stack Developer Intern — Ypsilon IT Solutions  
-**(Jan 2025 – Jul 2025)**  
-- Developed e-commerce modules  
-- Built Shopping Cart, Wishlist & Admin Dashboard  
-- Optimized MongoDB queries & APIs  
+**Jan 2025 – Jul 2025**
+- Developed e-commerce features & admin dashboard
+- Implemented Shopping Cart & Wishlist modules
+- Optimized MongoDB queries & backend APIs
 
 ---
 
 ## 🎯 Current Focus
- 
-✔ Writing clean & maintainable code  
-✔ Building scalable backend APIs  
-✔ Improving problem-solving ability  
+
+✔ Mastering MERN Stack fundamentals  
+✔ Writing clean, scalable & reusable code  
+✔ Building production-ready backend systems  
+✔ Improving DSA & problem-solving skills  
 
 ---
 
 ## ⚡ Fun Fact
-> <i>“Small daily improvements lead to big results.” 🚀</i>
-
-
-<!--
-**malkhansinghrajput/malkhansinghrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> <i>“Consistency beats talent when talent doesn’t stay consistent.” 🚀</i>
